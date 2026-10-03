@@ -13,3 +13,9 @@ A console-based car parking management program written in C++.
 ## How to Run
 1. Open `PARKING.cpp` in Dev-C++.
 2. Press F11 (Compile & Run).
+
+## Screenshots
+![Vehicle Entry](entry.png.jpeg)
+
+![Vehicle Exit](exit.png.jpeg)
+   
