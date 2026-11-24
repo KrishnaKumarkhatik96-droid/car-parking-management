@@ -13,7 +13,6 @@ A console-based car parking management system written in C++ using file handling
 2. Press F11 (Compile & Run).
 
 ## Screenshots
-![Vehicle Entry](entry.png.jpeg)
-
-![Vehicle Exit](exit.png.jpeg)
-   
+![Vehicle Entry](ENTRY.OUTPUT.jpeg)
+![Vehicle Exit](EXIT.OUTPUT.jpeg)
+ 
